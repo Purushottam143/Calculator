@@ -50,7 +50,7 @@ form input.Enter{
 }
 
 form input.design{
-    color: #f8fafc;
+    color: #000;
 }
 
 form input.box{
@@ -58,5 +58,5 @@ form input.box{
 }
 
 form input.white{
-    background: #000;
+    background: #fff;
 }
