@@ -30,6 +30,7 @@
     color: #000;
     cursor: pointer;
     margin: 10px;
+    padding:2px;
 }
 
 form .display{
